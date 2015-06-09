@@ -1,0 +1,15 @@
+---
+title: fitMe
+subtitle: WDI Project 2
+layout: default
+modal-id: 6
+date: 2015-05-04
+img: fitMeProject.png
+thumbnail: fitMeProject.png
+alt: image-alt
+project-date: May 2015
+client: General Assembly Project
+category: Web Development
+description: fitMe is the second project at GA during my WDI which was created as part of a group. This app would allow personal trainers/yoga teachers etc create profiles and list their services. Registered clients are able to browse through profiles and classes in a given fitness discipline. Once they are interested in someone they can request to book classes with him/her by sending them a private message. Because app would allow ability for both parties to leave feedback, trainers can also review client’s past feedback too and decide whether to accept the booking. This app does also for private communication between the instructor and client. TECHNOLOGIES - Ruby on Rails, JavaScript (JQuery), HTML (HAML), CSS (SASS)
+
+---

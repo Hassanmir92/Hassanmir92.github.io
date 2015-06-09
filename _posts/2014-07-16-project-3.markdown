@@ -1,0 +1,15 @@
+---
+title: HokmGame
+subtitle: WDI Final Project
+layout: default
+modal-id: 3
+date: 2014-06-05
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: June 2015
+client: General Assembly Project
+category: Web Development
+description: My Final project at GA London during WDI. I decided to challenge my programming skills to create a game which is well known in Iran as Hokm. The game is also known as court piece in other countries. The game is played with a full standard deck of 52 cards by four players in fixed partnerships, sitting crosswise. A player is chosen at random to be the trump-caller. Having received the first five cards, this player announces the trump suit. The trump-caller leads to the first hand. In hand-play the normal whist rules apply - Players must follow suit if possible, and the highest trump, or the highest card of the suit led, takes the hand. The winner of a hand leads to the next hand. The party that wins seven or more hands wins the round and another round will begin until a team has won seven rounds which results in the game finishing. TECHNOLOGIES - Backbone.JS, Ruby on Rails, JQuery, AJAX, HTML, CSS (SCSS)
+
+---

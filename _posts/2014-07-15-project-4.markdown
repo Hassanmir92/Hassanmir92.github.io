@@ -1,0 +1,15 @@
+---
+title: Nandos Sauce App
+subtitle: 24 Hour Hackathon
+layout: default
+modal-id: 4
+date: 2014-05-01
+img: nandos.png
+thumbnail: nandos.png
+alt: image-alt
+project-date: May 2015
+client: General Assembly Project
+category: Web Development
+description: A 24 hour hackathon at GA London during my WDI course. During the 24 hours, one of my classmates and myself created an app to suggest what nandos sauce you should go for depending on a couple of factors. TECHNOLOGIES - Ruby on Rails, JavaScript (JQuery), HTML, CSS
+
+---

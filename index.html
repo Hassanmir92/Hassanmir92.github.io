@@ -1,17 +1,20 @@
 ---
 layout: default
 ---
-<!-- Posts -->
-<ul id="posts">
 
-	{% for post in paginator.posts %}
+<div class="home">
 
-	  <li class="post">
-	  	<h2><a href="http://hassanmir92.github.io/{{ post.url }}">{{ post.title }}</a></h2>
-	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
-	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
-	  </li>
+  <h1>Posts</h1>
 
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
     {% endfor %}
+  </ul>
 
-</ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

@@ -879,17 +879,27 @@ body {
 .container .intro-text .intro-lead-in img {
   border-radius: 40px;
   border: 10px solid #f7f7f7;
+  z-index: 20;
 }
 
-.bg-dark-grey{
-  background-color: #202021;
-  color: #f7f7f7;
+#particles-js {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: -500px;
 }
+
+/*.bg-dark-grey{
+  background-color: #202021;
+  color: black;
+}*/
 
 .bg-lighter-grey{
   background-color: #222;
   color: #f7f7f7;
 }
+
 
 @-webkit-keyframes blinker {  
   from { opacity: 1.0; }

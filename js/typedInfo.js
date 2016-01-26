@@ -1,5 +1,5 @@
 $(".intro-typed").typed({
-  strings: ["Hey, I am Hassan Mir", "I am a web developer"],
+  strings: ["Hey, I'm Hassan", "I like coding", "I play poker", "..."],
   typeSpeed: 100,
   backDelay: 3500,
   startDelay: 10,

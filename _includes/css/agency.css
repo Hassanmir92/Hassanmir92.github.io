@@ -62,7 +62,7 @@ h6 {
 }
 
 .bg-light-gray {
-  background-color: #f7f7f7;
+  background-color: #C6C8CC;
 }
 
 .bg-darkest-gray {
@@ -259,7 +259,7 @@ fieldset[disabled] .btn-xl.active {
 
   .navbar-default.navbar-shrink {
     padding: 10px 0;
-    background-color: #222;
+    background-color: #43444B;
     border-bottom: 1px solid #f7f7f7;
   }
 
@@ -272,7 +272,7 @@ header {
   text-align: center;
   color: #fff;
   background-attachment: scroll;
-  background-image: url(../img/Geometric.png);
+  background-image: url(../img/bali.jpeg);
   background-position: center center;
   background-repeat: none;
   -webkit-background-size: cover;
@@ -668,7 +668,7 @@ aside.clients img {
 }
 
 section#contact {
-  background-color: #222;
+  background-color: #43444B;
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -888,6 +888,7 @@ body {
   left: 0;
   right: 0;
   bottom: -500px;
+  max-height: 600px;
 }
 
 /*.bg-dark-grey{
@@ -896,7 +897,7 @@ body {
 }*/
 
 .bg-lighter-grey{
-  background-color: #222;
+  background-color: #43444B;
   color: #f7f7f7;
 }
 
